@@ -1,0 +1,10 @@
+.login-panel{
+    margin-top:150px;
+    height: 300px;
+    border:1px solid darkblue;
+    margin-bottom: 50px;
+}
+
+.login-form{
+    padding-top: 30px;
+}
